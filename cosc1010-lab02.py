@@ -1,6 +1,6 @@
-# Your Name Here
+# Your Name [Yousef Kamal]
 # UWYO COSC 1010
-# Submission Date
+# Submission Date [09/17/2024]
 # Lab 02 
 # Lab Section: 
 # Sources, people worked with, help given to: 
